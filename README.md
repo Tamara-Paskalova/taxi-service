@@ -53,11 +53,13 @@ To run this project need to have installed
 
 for example
 
-![2021-07-28 (10)](https://user-images.githubusercontent.com/83809337/127300815-300e785e-de3e-4d8b-a461-7670f2d26959.png)
+![2021-07-28 (11)](https://user-images.githubusercontent.com/83809337/127303479-19989d70-b625-4d08-ac82-4620d7a8ef5f.png)
+
 
 jdbc.Driver is already provided, but you can change it with more suitable as well
 
-- 
+- Configure TomCat Local server (Add New Configuration -> TomCat -> Local -> Fix -> taxi-service:war exploded -> OK
+- Enjoy the project!
 
 
 
