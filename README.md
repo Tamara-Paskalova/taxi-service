@@ -11,6 +11,7 @@ It is easy to use, has a user-friendly interface and allows you to:
 Allows access only to authorized users, and also provides the ability to register new ones.
 This project follows the rules of N-tier Architecture and SOLID. Has DAO, SERVICE and CONTROLLER layers and uses custom Injector class.
 ### The relations between Car, Driver and Manutacturer are shown in this table:
+![car_diagram_db_2_4f50942103](https://user-images.githubusercontent.com/83809337/127296817-e1af8215-1819-49ed-ba0a-6526e71e6542.png)
 
 ## Login Page
 ![2021-07-28](https://user-images.githubusercontent.com/83809337/127278546-766c4314-eec8-49e6-a948-d7e181809230.png)
