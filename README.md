@@ -50,7 +50,14 @@ To run this project need to have installed
 - In src/main/java/taxi/util/ConnectionUtil change URL, USERNAME and PASSWORD with your data
 
 ![2021-07-28 (9)](https://user-images.githubusercontent.com/83809337/127299771-25ceddd3-305a-4108-86ae-f0fe9acc8a69.png)
-for exemple
+
+for example
+
+![2021-07-28 (10)](https://user-images.githubusercontent.com/83809337/127300815-300e785e-de3e-4d8b-a461-7670f2d26959.png)
+
+jdbc.Driver is already provided, but you can change it with more suitable as well
+
+- 
 
 
 
