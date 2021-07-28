@@ -43,7 +43,7 @@ This project follows the rules of N-tier Architecture and SOLID. Has DAO, SERVIC
 To run this project need to have installed 
 - IntelliJ IDEA Ultimate [IDEA](https://www.jetbrains.com/idea/download/#section=windows) 
 - ApacheTomcat [TOMCAT](https://tomcat.apache.org/download-90.cgi)
-- MySQL MySQL Workench [MySQL](https://www.mysql.com/downloads/)
+- MySQL and MySQL Workench [MySQL](https://www.mysql.com/downloads/)
 
 - Fork the project on your IDE
 - In MySQL Workbench run the script from resources/init_db.sql.
