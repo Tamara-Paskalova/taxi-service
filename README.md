@@ -21,4 +21,6 @@ This project follows the rules of N-tier Architecture and SOLID. Has DAO, SERVIC
 ![2021-07-28 (3)](https://user-images.githubusercontent.com/83809337/127292234-24632505-bbf2-4a2e-a604-ae9b600e685a.png)
 ## List All Drivers Page
 ![2021-07-28 (2)](https://user-images.githubusercontent.com/83809337/127292438-83d9f225-bece-4348-b038-636f464c8825.png)
+## Add New Car Page
+![2021-07-28 (6)](https://user-images.githubusercontent.com/83809337/127293037-de79a48b-7f22-4ab9-98b7-406fcec433b3.png)
 
