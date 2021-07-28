@@ -1,5 +1,5 @@
 # Taxi Service
-This is a very handy application that aims to help organize and coordinate all the inside information of your taxi business.
+This is a very handy application that aims to help organize and coordinate part of the inside information of your taxi business.
 It is easy to use, has a user-friendly interface and allows you to:
 - Create a new car.
 - Create a new driver.
@@ -9,7 +9,7 @@ It is easy to use, has a user-friendly interface and allows you to:
 - Delete cars, drivers and manufacturers.
 
 Allows access only to authorized users, and also provides the ability to register new ones.
-This project follows the rules of N-tier Architecture and SOLID. Has DAO, SERVICE and CONTROLLER layers and uses custom Injector class.
+This project follows the rules of N-tier Architecture and SOLID. Has DAO, SERVICE and CONTROLLER layers and uses custom Injector class and Logger.
 ### The relations between Car, Driver and Manutacturer are shown in this table:
 ![car_diagram_db_2_4f50942103](https://user-images.githubusercontent.com/83809337/127296817-e1af8215-1819-49ed-ba0a-6526e71e6542.png)
 
