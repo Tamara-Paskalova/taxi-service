@@ -10,6 +10,7 @@ It is easy to use, has a user-friendly interface and allows you to:
 
 Allows access only to authorized users, and also provides the ability to register new ones.
 This project follows the rules of N-tier Architecture and SOLID. Has DAO, SERVICE and CONTROLLER layers and uses custom Injector class.
+### The relations between Car, Driver and Manutacturer are shown in this table:
 
 ## Login Page
 ![2021-07-28](https://user-images.githubusercontent.com/83809337/127278546-766c4314-eec8-49e6-a948-d7e181809230.png)
@@ -25,4 +26,23 @@ This project follows the rules of N-tier Architecture and SOLID. Has DAO, SERVIC
 ![2021-07-28 (6)](https://user-images.githubusercontent.com/83809337/127293037-de79a48b-7f22-4ab9-98b7-406fcec433b3.png)
 ## Assign Driver To Car Page
 ![2021-07-28 (8)](https://user-images.githubusercontent.com/83809337/127293364-09f38b7f-a8e0-44d7-a711-04662f001020.png)
+## Add New Manufacturer Page
+![2021-07-28 (7)](https://user-images.githubusercontent.com/83809337/127293629-3c476dfb-50bc-4248-951b-0c0085c7ca46.png)
+
+## Technologies used
+- Apache Tomcat - version 9.0.46
+- MySQL - version 8.0.25
+- JDBC
+- Servlet
+- JSTL
+- JSP
+- HTML, CSS
+
+## Run Project
+To run this project need to have installed 
+- IntelliJ IDEA Ultimate [IDEA](https://www.jetbrains.com/idea/download/#section=windows) 
+- ApacheTomcat [TOMCAT](https://tomcat.apache.org/download-90.cgi)
+- MySQL [MySQL](https://www.mysql.com/downloads/)
+
+
 
