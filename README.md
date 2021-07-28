@@ -12,4 +12,5 @@ Allows access only to authorized users, and also provides the ability to registe
 This project follows the rules of N-tier Architecture and SOLID. Has DAO, SERVICE and CONTROLLER layers and uses custom Injector class.
 
 ![2021-07-28](https://user-images.githubusercontent.com/83809337/127278546-766c4314-eec8-49e6-a948-d7e181809230.png)
+![2021-07-28 (4)](https://user-images.githubusercontent.com/83809337/127286181-27828f5e-f4d8-4682-b56f-730a3b1e3b58.png)
 
