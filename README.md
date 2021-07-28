@@ -47,7 +47,10 @@ To run this project need to have installed
 
 - Fork the project on your IDE
 - In MySQL Workbench run the script from resources/init_db.sql.
-- In src/main/java/taxi/util/ConnectionUtil change 
+- In src/main/java/taxi/util/ConnectionUtil change URL, USERNAME and PASSWORD with your data
+
+![2021-07-28 (9)](https://user-images.githubusercontent.com/83809337/127299771-25ceddd3-305a-4108-86ae-f0fe9acc8a69.png)
+for exemple
 
 
 
